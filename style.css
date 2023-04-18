@@ -1,0 +1,15 @@
+.row{
+    height: 100px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+.child{
+    border: 3px solid #000;
+    height: 100px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
